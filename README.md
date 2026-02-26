@@ -2,3 +2,4 @@
 # Group Members & Contributions
 Sami Kang (ajp3cx):
 Safaa Mahbub (ejj9fs):
+Logan Lee (dyk4vb):
