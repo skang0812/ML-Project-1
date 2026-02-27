@@ -14,4 +14,4 @@ Generative AI was utilized in this project primarily to assist with repository s
 | **Sami Kang** | skang0812 | skang0812 | Finished Part 1 (merging, EDA, heatmaps) and started Part 2 (scaling, k-NN classification, k-optimization). |
 | **Alexander Scott** | hmn7zu | AlxScottt | Part 1: Data paths, import/downloading, data cleaning, and variable explanations (ELIGSTAT, MORTSTAT, PERMTH_INT, RIDAGEEX) |
 | **Logan Lee** | dyk4vb | DJReazy | Part 2: Model Evaluation & Interpretation |
-| **Safaa Mahbub** | ejj9fs | SafaaMahbub | Part 2: Dataset analysis, data preparation for k-NN Classification, and performance analysis |
+| **Safaa Mahbub** | ejj9fs | SafaaMahbub | Part 2: Dataset analysis, finished k-NN Classification, and performance analysis |
